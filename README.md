@@ -2,6 +2,7 @@
 
 Roadmaps are a great way to get a peek at what is being planned, view/make comments, and keep up with recently delivered updates.
 
+ * Amazon EC2 Spot Instances integrations - https://github.com/aws/ec2-spot-instances-integrations-roadmap/projects/1
  * AWS CDK - https://github.com/orgs/aws/projects/7
  * AWS CloudFormation Coverage - https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap/projects/1
  * AWS container services (ECS, ECR, Fargate, and EKS - https://github.com/aws/containers-roadmap/projects/1
